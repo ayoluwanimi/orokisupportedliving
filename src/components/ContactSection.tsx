@@ -46,7 +46,7 @@ const ContactSection = () => {
                     <div>
                       <h4 className="font-semibold text-foreground mb-1">Email</h4>
                       <p className="text-muted-foreground">Send us a message anytime</p>
-                      <p className="text-primary font-medium">info@orokisupport.co.uk</p>
+                      <p className="text-primary font-medium">info@orokisupportedliving.online</p>
                     </div>
                   </div>
                 </CardContent>

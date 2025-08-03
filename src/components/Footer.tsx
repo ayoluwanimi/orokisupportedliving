@@ -42,7 +42,7 @@ const Footer = () => {
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-sm opacity-90">
               <li>+44 (0) 123 456 7890</li>
-              <li>info@orokisupport.co.uk</li>
+              <li>info@orokisupportedliving.online</li>
               <li>123 Community Street<br />London, UK SW1A 1AA</li>
             </ul>
           </div>
